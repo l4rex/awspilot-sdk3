@@ -25,7 +25,7 @@
   "license": "MIT",
   "dependencies": {
     "@awspilot/dynamodb-sql-util": "1.0.0",
-    "@awspilot/dynamodb-util": "markw351/dynamodb-util#467bc52711b58d4da543b8bb872f12b12be236c7",
+    "@awspilot/dynamodb-util": "markw351/dynamodb-util#44ba909bdfbd8478ad9bd82d88762175a94a98c0",
     "promise": "8.0.3"
   },
   "peerDependencies": {

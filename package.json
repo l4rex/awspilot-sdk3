@@ -24,8 +24,8 @@
   "browser": "./dist/dynamodbjs",
   "license": "MIT",
   "dependencies": {
-    "@awspilot/dynamodb-util": "markw351/dynamodb-util#handle-object-with-null-prototype",
     "@awspilot/dynamodb-sql-util": "1.0.0",
+    "@awspilot/dynamodb-util": "github:markw351/dynamodb-util#handle-object-with-null-prototype",
     "promise": "8.0.3"
   },
   "peerDependencies": {

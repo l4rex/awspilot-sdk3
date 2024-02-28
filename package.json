@@ -1,11 +1,7 @@
 {
   "version": "2.0.2",
-  "author": {
-    "name": "Adrian Praja",
-    "email": "adrian@databank.ro",
-    "url": "https://awspilot.dev"
-  },
-  "name": "@awspilot/dynamodb",
+  "author": "Adrian Praja <adrian@databank.ro> (https://awspilot.dev)",
+  "name": "@markw351/aws-dynamodb",
   "description": "Speak fluent DynamoDB, write code with fashion, I Promise() 😃 ",
   "keywords": [
     "aws",
@@ -14,14 +10,12 @@
     "promise",
     "nosql"
   ],
-  "homepage": "https://awspilot.dev/",
   "bugs": "https://github.com/awspilot/dynamodb-oop/issues",
   "repository": {
     "type": "git",
     "url": "https://github.com/awspilot/dynamodb-oop"
   },
   "main": "./lib/dynamodb",
-  "browser": "./dist/dynamodbjs",
   "license": "MIT",
   "dependencies": {
     "@awspilot/dynamodb-util": "1.1.4",
@@ -43,8 +37,7 @@
     "ifdef-loader": "^2.1.4"
   },
   "scripts": {
-    "test": "mocha --timeout 300000 -S -R spec --exit",
-    "build:browser": "webpack  --config webpack.browser.js"
+    "test": "mocha --timeout 300000 -S -R spec --exit"
   },
   "engines": {
     "node": "*"

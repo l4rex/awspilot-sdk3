@@ -10,10 +10,9 @@
     "promise",
     "nosql"
   ],
-  "bugs": "https://github.com/awspilot/dynamodb-oop/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/awspilot/dynamodb-oop"
+    "url": "https://https://github.com/markw351/aws-dynamodb"
   },
   "main": "./lib/dynamodb",
   "license": "MIT",

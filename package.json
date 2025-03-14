@@ -1,7 +1,7 @@
 {
   "version": "2.0.2",
   "author": "Adrian Praja <adrian@databank.ro> (https://awspilot.dev)",
-  "name": "@markw351/aws-dynamodb",
+  "name": "@awspilot/aws-sdk-3",
   "description": "Speak fluent DynamoDB, write code with fashion, I Promise() 😃 ",
   "keywords": [
     "aws",
